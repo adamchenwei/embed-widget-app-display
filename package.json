@@ -1,0 +1,48 @@
+{
+  "name": "embed-widget-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://adamchenwei.github.io/embed-widget-app",
+  "dependencies": {
+    "@projectstorm/react-diagrams": "^6.0.1-beta.7",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "closest": "^0.0.1",
+    "dagre": "^0.8.5",
+    "lodash": "^4.17.15",
+    "mathjs": "^6.6.0",
+    "pathfinding": "^0.4.18",
+    "paths-js": "^0.4.10",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.0"
+  },
+  "scripts": {
+    "start": "PORT=3001 react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
