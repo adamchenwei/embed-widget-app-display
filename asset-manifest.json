@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/embed-widget-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/embed-widget-app/static/js/main.b1d760e8.chunk.js",
-    "main.js.map": "/embed-widget-app/static/js/main.b1d760e8.chunk.js.map",
-    "runtime-main.js": "/embed-widget-app/static/js/runtime-main.6e751f9c.js",
-    "runtime-main.js.map": "/embed-widget-app/static/js/runtime-main.6e751f9c.js.map",
-    "static/js/2.fe86e970.chunk.js": "/embed-widget-app/static/js/2.fe86e970.chunk.js",
-    "static/js/2.fe86e970.chunk.js.map": "/embed-widget-app/static/js/2.fe86e970.chunk.js.map",
-    "index.html": "/embed-widget-app/index.html",
-    "precache-manifest.8c5b1ecaeff217e83e45517183cdae17.js": "/embed-widget-app/precache-manifest.8c5b1ecaeff217e83e45517183cdae17.js",
-    "service-worker.js": "/embed-widget-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/embed-widget-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.fe86e970.chunk.js.LICENSE.txt": "/embed-widget-app/static/js/2.fe86e970.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/embed-widget-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/embed-widget-app-display/static/css/main.5f361e03.chunk.css",
+    "main.js": "/embed-widget-app-display/static/js/main.b1d760e8.chunk.js",
+    "main.js.map": "/embed-widget-app-display/static/js/main.b1d760e8.chunk.js.map",
+    "runtime-main.js": "/embed-widget-app-display/static/js/runtime-main.6e751f9c.js",
+    "runtime-main.js.map": "/embed-widget-app-display/static/js/runtime-main.6e751f9c.js.map",
+    "static/js/2.fe86e970.chunk.js": "/embed-widget-app-display/static/js/2.fe86e970.chunk.js",
+    "static/js/2.fe86e970.chunk.js.map": "/embed-widget-app-display/static/js/2.fe86e970.chunk.js.map",
+    "index.html": "/embed-widget-app-display/index.html",
+    "precache-manifest.8c5b1ecaeff217e83e45517183cdae17.js": "/embed-widget-app-display/precache-manifest.8c5b1ecaeff217e83e45517183cdae17.js",
+    "service-worker.js": "/embed-widget-app-display/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/embed-widget-app-display/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fe86e970.chunk.js.LICENSE.txt": "/embed-widget-app-display/static/js/2.fe86e970.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/embed-widget-app-display/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6e751f9c.js",
