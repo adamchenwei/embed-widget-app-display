@@ -2,7 +2,7 @@
   "name": "embed-widget-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://adamchenwei.github.io/embed-widget-app",
+  "homepage": "https://adamchenwei.github.io/embed-widget-app-display",
   "dependencies": {
     "@projectstorm/react-diagrams": "^6.0.1-beta.7",
     "@testing-library/jest-dom": "^4.2.4",
