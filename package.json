@@ -5,9 +5,9 @@
   "homepage": "https://adamchenwei.github.io/embed-widget-app-display",
   "dependencies": {
     "@projectstorm/react-diagrams": "^6.0.1-beta.7",
-    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/jest-dom": "^5.1.1",
     "@testing-library/react": "^9.3.2",
-    "@testing-library/user-event": "^7.1.2",
+    "@testing-library/user-event": "^10.0.0",
     "closest": "^0.0.1",
     "dagre": "^0.8.5",
     "lodash": "^4.17.15",
